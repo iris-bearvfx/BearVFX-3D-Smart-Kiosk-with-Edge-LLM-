@@ -2,6 +2,8 @@
 
 **A next-generation Human-Computer Interaction solution leveraging high-fidelity BearVFX 3D AI Virtual Human with Advantech's localized Edge LLM and RAG system for immersive, interactive experiences.**
 
+![CleanShot 2026-03-02 at 14 46 57](https://github.com/user-attachments/assets/a2fdafc8-45ff-4a89-b379-92b9af43e6ab)
+
 ---
 
 ## ✨ Features & Business Value
@@ -71,6 +73,31 @@ This component serves as the primary output and input hub, facilitating client-s
 | **Display Size** | **55 inches** | Large format for immersive viewing. |
 | **Resolution** | **1920 x 1080 ( Full HD )** | Standard high-definition display resolution. |
 | **Functionality** | **Touch-enabled** | Allows for direct user interaction and input. |
+
+---
+
+## Use Cases
+
+### 🌐 2025 Edge AI Foundation
+
+The system was first introduced as a fully localized, on-premise deployment at the 2025 Edge AI Foundation Conference, where BearVFX’s 3D AI Virtual Human was integrated with Advantech’s Edge AI Box (AIR-030 series).
+
+Serving as the official event receptionist and intelligent guide, the virtual human operated entirely on a local edge architecture—demonstrating:
+* **Real-time interaction powered by localized Edge LLM + RAG**
+*	**Stable, low-latency performance without reliance on cloud connectivity**
+* **Seamless integration between cinematic Unreal Engine rendering and on-device AI reasoning**
+* **A practical implementation of Edge AI + immersive human-computer interaction**
+
+This deployment validated the feasibility of a fully localized AI Virtual Human solution suitable for enterprises requiring data privacy, reduced latency, and stable offline-capable operations.
+
+### 🛍 Smart Retail – AI Sales & Brand Engagement
+
+Deployed in retail environments such as shopping malls and brand flagship stores, BearVFX virtual humans serve as:
+* **AI-powered sales assistants**
+* **Smart brand ambassadors**
+* **Interactive product guides**
+
+The system enhances customer dwell time, increases engagement, and converts offline interaction into measurable behavioral data—supporting precision marketing and revenue growth.
 
 ---
 
