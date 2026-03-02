@@ -84,9 +84,9 @@ The system was first introduced as a fully localized, on-premise deployment at t
 
 Serving as the official event receptionist and intelligent guide, the virtual human operated entirely on a local edge architecture—demonstrating:
 * **Real-time interaction powered by localized Edge LLM + RAG**
-*	**Stable, low-latency performance without reliance on cloud connectivity**
+*	**Stable, low-latency performance**
 * **Seamless integration between cinematic Unreal Engine rendering and on-device AI reasoning**
-* **A practical implementation of Edge AI + immersive human-computer interaction**
+* **A practical implementation of Edge AI and immersive human-computer interaction**
 
 This deployment validated the feasibility of a fully localized AI Virtual Human solution suitable for enterprises requiring data privacy, reduced latency, and stable offline-capable operations.
 
